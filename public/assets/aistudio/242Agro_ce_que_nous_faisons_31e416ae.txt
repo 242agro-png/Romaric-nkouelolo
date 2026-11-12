@@ -1,0 +1,35 @@
+voici ce que nous faisons (lien de notre site : https://242agropn.netlify.app/, en voici les details (242Agro
+Nous avons construit une entreprise qui installe des espaces de production agricole hors sol en ville, avec potagers, petits élevages et compostage. Pour que les ménages, les écoles et les restaurants puissent produire localement, même sans terrain.
+profil de l'entreprise
+Classé le 26 oct. 2026
+Présentation de l'entreprise
+242agro conçoit et installe à Pointe-Noire et dans le Littoral des espaces de production agricole hors-sol pour produire localement en ville. L'entreprise accompagne les ménages, les écoles, les églises, les restaurants et les porteurs de projets avec des potagers, de petits élevages, du compostage et un appui agronomique.
+Objectif actuel
+Préparer le MVP public de 242agro en français, en présentant ses solutions de production agricole urbaine et en structurant la réception et le suivi privé des demandes de projets.
+Cible publique
+Ménages, écoles, églises, restaurants et porteurs de projets à Pointe-Noire et dans le Littoral.
+Produits et services
+Conception et installation d'espaces de production agricole hors-sol
+Potagers urbains
+Petits élevages de poules ou de lapins
+Compostage
+Appui agronomique pour démarrer et entretenir un espace de production
+Tonne
+Concrète, accessible, locale et tournée vers des solutions pratiques pour produire en ville.
+feuille de route
+Classé le 26 oct. 2026
+Maintenant
+MVP — Créer la page d'accueil publique de 242agro en français : solutions hors-sol, potagers, petits élevages, compostage et appui agronomique, pour les ménages, écoles, églises, restaurants et porteurs de projets à Pointe-Noire et dans le Littoral.
+Ajoutez un espace privé avec better-auth et Dashboard-Shell, incluant la création du premier compte propriétaire avant tout accès aux demandes.
+Ajouter un formulaire de demande de projet avec service-intake : profil du demandeur, lieu, solutions souhaitées et coordonnées ; Afficher une confirmation et rendre chaque demande consultable dans le fichier privé après reconnexion.
+Ensuite
+Ajouter une page « Nos solutions » détaillant les potagers, l'élevage de poules ou de lapins, le compostage et l'accompagnement agronomique.
+Ajoutez les courriels de confirmation au demandeur et d'alerte au propriétaire après l'envoi d'une demande, avec configuration des adresses dans l'espace privé.
+Plus tard
+Ajouter une FAQ publique répondant aux questions récurrentes recueillies dans les demandes reçues.
+Mission
+Nous faisons pousser la possibilité de produire localement, même là où la ville laisse peu de place à la terre.
+Ce que nous construisons
+242agro conçoit et installe à Pointe-Noire et dans le Littoral des espaces de production agricole hors-sol pour les ménages, les écoles, les églises, les restaurants et les porteurs de projets. Potagers, petits élevages et compostage peuvent s'accompagner d'un appui agronomique pour aider chacun à démarrer et à entretenir son espace.
+Notre direction
+Nous voulons voir les villes où chaque espace disponible peut devenir un lieu vivant de production : une cour d'école qui nourrit la curiosité et les assiettes, un foyer qui cultive une part de ce qu'il consomme, un restaurant qui se rapproche de ses récoltes. À mesure que ces espaces se multiplient, produisent localement devient une possibilité concrète pour davantage de communautés, et la ville retrouve une place pour le vivant.) ),fait moi des post linedin et faceboo orienté bénefices clients, sous forme de story telling, pour la sensibilisation sur la consomation des produits mareichers avec beaucoups de produits chimiques sources des maladies, pourquoi nous nous priviligieons les produits que nous produisons nous meme d'une maniere organiques, peut importe l'espaces, que ca soit sur les balcons, les veranda et autres, une agriculture organiques pour la bonne santé.....

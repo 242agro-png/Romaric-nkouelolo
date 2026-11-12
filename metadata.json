@@ -1,0 +1,8 @@
+{
+  "name": "242Agro Intelligence",
+  "description": "Plateforme intelligente de veille commerciale, d'analyse des opportunités et de génération de dossiers professionnels pour 242Agro à Pointe-Noire et au Congo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
